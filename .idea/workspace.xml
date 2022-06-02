@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bcf125da-03cb-443a-9edf-a1ff3fb880db" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/pet.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/petPut.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/ApiModuleTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ApiModuleTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,6 +42,12 @@
     "settings.editor.selected.configurable": "preferences.sourceCode"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\demaela\Desktop\Repos\JavaRestAssured\src\test\java" />
+      <recent name="C:\Users\demaela\Desktop\Repos\JavaRestAssured\src\main\resources" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="ApiModuleTests.PostTestingApi" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaRestAssured" />
